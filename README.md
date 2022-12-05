@@ -1,6 +1,16 @@
-### Hello! 👋
+## Hello! 👋
 
-I'm *DaRubyMiner360*, and I'm a student programmer and artist that knows 11 different programming languages.
+<div align="left">
+  <a href="https://rubydevs.ml/" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/DaRubyMiner360/DaRubyMiner360/blob/main/devcard.svg"
+    />
+  </a>
+</div>
+
+### I'm *DaRubyMiner360*, and I'm a student programmer and artist that knows 11 different programming languages.
 
 I'm currently working on:
 - *[Cloud](https://github.com/CloudLoaderMC/CloudLoader)*, a hybrid mod loader for Minecraft aiming to actively support as many other loaders' mods as possible
