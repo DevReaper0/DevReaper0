@@ -17,4 +17,5 @@ I'm currently working on:
 - *[ParaCode](https://github.com/ParaCodeLang/ParaCode)*, a prototypical programming language with a knack for extensibility
 - *[Spirit](https://gitlab.com/DaRubyMiner360/SpiritEngine)*, a simple, lightweight 2D OpenGL game engine
 - *[InstallLib](https://github.com/DaRubyMiner360/InstallLib)*, a lightweight library to create cross-platform installer applications at no cost
+- *[CookieClicker++](https://github.com/DaRubyMiner360/CookieClickerPlusPlus)*, a way to load Cookie Clicker but store saves in the cloud
 - Many on-and-off side projects like [an unnamed barebones operating system](https://github.com/DaRubyMiner360/NewOS), a game idea generator, and a few video game mods
