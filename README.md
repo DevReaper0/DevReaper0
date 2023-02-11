@@ -10,7 +10,7 @@
   </a>
 </div>
 
-### I'm *DaRubyMiner360*, and I'm a student programmer and artist that knows 11 different programming languages.
+### I'm *DaRubyMiner360*, and I'm a student programmer that knows 12 different programming languages. I am also a digital artist and composer.
 
 I'm currently working on:
 - *[Cloud](https://github.com/CloudLoaderMC/CloudLoader)*, a hybrid mod loader for Minecraft aiming to actively support as many other loaders' mods as possible
