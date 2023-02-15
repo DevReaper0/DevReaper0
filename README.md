@@ -10,7 +10,7 @@
   </a>
 </div>
 
-### I'm *DaRubyMiner360*, and I'm a student programmer that knows 12 different programming languages. I am also a digital artist and composer.
+### I'm *DaRubyMiner360*, and I'm a student programmer that knows 13 different programming languages. I am also a digital artist and composer.
 
 I'm currently working on:
 - *[Cloud](https://github.com/CloudLoaderMC/CloudLoader)*, a hybrid mod loader for Minecraft aiming to actively support as many other loaders' mods as possible
@@ -19,3 +19,18 @@ I'm currently working on:
 - *[InstallLib](https://github.com/DaRubyMiner360/InstallLib)*, a lightweight library to create cross-platform installer applications at no cost
 - *[CookieClicker++](https://github.com/DaRubyMiner360/CookieClickerPlusPlus)*, a way to load Cookie Clicker but store saves in the cloud
 - Many on-and-off side projects like [an unnamed barebones operating system](https://github.com/DaRubyMiner360/NewOS), a game idea generator, and a few video game mods
+
+The languages that I know:
+- Java
+- C#
+- C++
+- C
+- Python
+- Lua
+- Go
+- Swift
+- JavaScript
+- PHP
+- ParaCode
+- Bash
+- Rust
