@@ -31,8 +31,8 @@ The languages I know (in no particular order):
 - *Swift*
 - *JavaScript*
 - *PHP*
-- *ParaCode*
 - *Bash*
 - *Rust*
+- *ParaCode* (yes, that's mine, but it still counts)
 
 I'm currently learning *Kotlin*.
