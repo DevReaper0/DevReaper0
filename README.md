@@ -33,6 +33,6 @@ The languages I know (in no particular order):
 - *PHP*
 - *ParaCode*
 - *Bash*
-- *Rust
+- *Rust*
 
 I'm currently learning *Kotlin*.
