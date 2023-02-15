@@ -20,17 +20,19 @@ I'm currently working on:
 - *[CookieClicker++](https://github.com/DaRubyMiner360/CookieClickerPlusPlus)*, a way to load Cookie Clicker but store saves in the cloud
 - Many on-and-off side projects like [an unnamed barebones operating system](https://github.com/DaRubyMiner360/NewOS), a game idea generator, and a few video game mods
 
-The languages that I know:
-- Java
-- C#
-- C++
-- C
-- Python
-- Lua
-- Go
-- Swift
-- JavaScript
-- PHP
-- ParaCode
-- Bash
-- Rust
+The languages I know (in no particular order):
+- *Java*
+- *C#*
+- *C++*
+- *C*
+- *Python*
+- *Lua*
+- *Go*
+- *Swift*
+- *JavaScript*
+- *PHP*
+- *ParaCode*
+- *Bash*
+- *Rust
+
+I'm currently learning *Kotlin*.
