@@ -3,7 +3,7 @@
 <div align="left">
   <a href="https://rubydevs.ml/" target="_blank">
     <img
-      width="256"
+      width="192"
       align="right"
       src="https://github.com/DaRubyMiner360/DaRubyMiner360/blob/main/devcard.svg"
     />
