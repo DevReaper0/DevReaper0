@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-<div align="left">
+<!--<div align="left">
   <a href="https://rubydevs.ml/" target="_blank">
     <img
       width="192"
@@ -8,7 +8,7 @@
       src="https://github.com/DaRubyMiner360/DaRubyMiner360/blob/main/devcard.svg"
     />
   </a>
-</div>
+</div>-->
 
 ### I'm *DaRubyMiner360*, a student programmer that knows 13 different programming languages. I am also a digital artist and composer.
 
