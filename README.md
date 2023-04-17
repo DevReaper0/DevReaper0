@@ -36,4 +36,4 @@ The languages I know (in no particular order):
 - *Rust*
 - *ParaCode* (yes, that's mine, but it still counts)
 
-I'm currently learning *Kotlin*.
+I'm currently learning *Kotlin* and *Dart*.
