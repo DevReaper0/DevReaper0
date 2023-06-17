@@ -10,7 +10,7 @@
   </a>
 </div>-->
 
-### I'm *DaRubyMiner360*, a student programmer that knows 13 different programming languages. I am also a digital artist and composer.
+### I'm *DaRubyMiner360*, a student programmer that knows 14 different programming languages. I am also a digital artist and composer.
 
 I'm currently working on:
 - *[Cloud](https://github.com/CloudLoaderMC/CloudLoader)*, a hybrid mod loader for Minecraft aiming to actively support as many other loaders' mods as possible
@@ -34,6 +34,7 @@ The languages I know (in no particular order):
 - *PHP*
 - *Bash*
 - *Rust*
+- *Dart*
 - *ParaCode* (yes, that's mine, but it still counts)
 
-I'm currently learning *Kotlin* and *Dart*.
+I'm currently learning *Kotlin*.
