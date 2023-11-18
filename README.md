@@ -21,7 +21,7 @@ I'm currently working on:
 - *[CookieClicker++](https://github.com/DevReaper0/CookieClickerPlusPlus)*, a way to load Cookie Clicker but store saves in the cloud
 - Many on-and-off side projects like [an unnamed barebones operating system](https://github.com/DevReaper0/NewOS), a game idea generator, and a few video game mods
 
-The languages I know (in no particular order):
+The languages I know very well and commonly use (in no particular order):
 - *Java*
 - *C#*
 - *C++*
@@ -29,7 +29,6 @@ The languages I know (in no particular order):
 - *Python*
 - *Lua*
 - *Go*
-- *Swift*
 - *JavaScript*
 - *PHP*
 - *Bash*
