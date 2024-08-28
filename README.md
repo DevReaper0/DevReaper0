@@ -4,7 +4,7 @@
 
 My current main projects:
 - *[Cloud](https://github.com/CloudLoaderMC/CloudLoader)*, a hybrid mod loader for Minecraft aiming to actively support as many other loaders' mods as possible
-- *[Libra](https://github.com/DevReaper0/libra)*, a new, open, and extendible music service.
+- *[Libra](https://github.com/DevReaper0/libra)*, a new, open, and extensible music service.
 
 Some other cool projects:
 - *[ParaCode](https://github.com/ParaCodeLang/ParaCode)*, a prototypical programming language with a knack for extensibility
