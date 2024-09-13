@@ -1,10 +1,10 @@
 ## Hello! 👋
 
-### I'm *DevReaper0*, a student programmer who has been writing code since early 2019 and currently knows a variety of different programming languages. I also dabble a bit in creating digital art and music.
+### I'm *DevReaper0*, a student programmer who has been writing code since early 2019 and knows a variety of different programming languages. I also dabble a bit in creating digital art and music.
 
 My current main projects:
+- *[Libra](https://github.com/LibraMusic)*, a new, open, and extensible music service
 - *[Cloud](https://github.com/CloudLoaderMC/CloudLoader)*, a hybrid mod loader for Minecraft aiming to actively support as many other loaders' mods as possible
-- *[Libra](https://github.com/DevReaper0/libra)*, a new, open, and extensible music service.
 
 Some other cool projects:
 - *[ParaCode](https://github.com/ParaCodeLang/ParaCode)*, a prototypical programming language with a knack for extensibility
@@ -14,7 +14,7 @@ Some other cool projects:
 - *[NewOS](https://github.com/DevReaper0/NewOS)*, a barebones operating system
 
 I know a larger variety of languages, but these are my absolute favorites:
-- *Rust*
-- *Go*
-- *Python*
-- *Lua*
+1. *Rust*
+2. *Go*
+3. *Python*
+4. *Lua*
