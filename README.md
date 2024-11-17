@@ -6,6 +6,7 @@ I'm _DevReaper0_, a student programmer who has been writing code since early 201
 
 -   _[Libra](https://github.com/LibraMusic)_, a new, open, and extensible music service
 -   _[Cloud](https://github.com/CloudLoaderMC/CloudLoader)_, a hybrid mod loader for Minecraft aiming to actively support as many other loaders' mods as possible
+-   _[GoReleaser](https://github.com/DevReaper0/goreleaser)_, a fork of [GoReleaser](https://github.com/goreleaser/goreleaser), used to deliver Go binaries as fast and easily as possible, implementing some Pro features and other various improvements.
 
 #### ⌨️ Some other cool projects:
 
@@ -26,9 +27,9 @@ I'm _DevReaper0_, a student programmer who has been writing code since early 201
 
 ```text
 💾 Languages:
-YAML        6h 23m 43s   ███████████████████░░░░░░  74.97%
-Bash        1h 4m 21s    ████░░░░░░░░░░░░░░░░░░░░░  12.57%
-Go          39m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.68%
-unknown     7m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
-Docker      7m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.40%
+YAML        6h 49m 33s   ████████████████████░░░░░  76.17%
+Bash        1h 4m 21s    ███░░░░░░░░░░░░░░░░░░░░░░  11.97%
+Go          39m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.32%
+unknown     7m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.36%
+Docker      7m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.34%
 ```
