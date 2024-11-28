@@ -6,7 +6,8 @@ I'm _DevReaper0_, a student programmer who has been writing code since early 201
 
 -   _[Libra](https://github.com/LibraMusic)_, a new, open, and extensible music service
 -   _[Cloud](https://github.com/CloudLoaderMC/CloudLoader)_, a hybrid mod loader for Minecraft aiming to actively support as many other loaders' mods as possible
--   _[GoReleaser](https://github.com/DevReaper0/goreleaser)_, a [GoReleaser](https://github.com/goreleaser/goreleaser) fork implementing some Pro features and other various improvements.
+-   _[GoReleaser](https://github.com/DevReaper0/goreleaser)_, a [GoReleaser](https://github.com/goreleaser/goreleaser) fork implementing some Pro features and other various improvements
+-   _[DeclArch](https://github.com/DevReaper0/declarch)_, a tool for declaratively managing an Arch Linux system
 
 #### ⌨️ Some other cool projects:
 
