@@ -1,13 +1,13 @@
 ### Hello! 👋
 
-I'm _DevReaper0_, a student programmer who has been writing code since early 2019 and knows a variety of different programming languages. I also dabble a bit in creating digital art and music.
+I'm _DevReaper0_, a student programmer who has been writing code since early 2019. I also dabble a bit in creating digital art and music.
 
 #### 💻 My current main projects:
 
 -   _[Libra](https://github.com/LibraMusic)_, a new, open, and extensible music service
+-   _[Nova](https://github.com/LibraMusic/Nova)_, a [GoReleaser](https://github.com/goreleaser/goreleaser) fork with additional features and some breaking changes
+-   _[DeclArch](https://github.com/DevReaper0/declarch)_, a tool for declaratively managing (currently only Arch Linux) systems
 -   _[Cloud](https://github.com/CloudLoaderMC/CloudLoader)_, a hybrid mod loader for Minecraft aiming to actively support as many other loaders' mods as possible
--   _[GoReleaser](https://github.com/DevReaper0/goreleaser)_, a [GoReleaser](https://github.com/goreleaser/goreleaser) fork implementing some Pro features and other various improvements
--   _[DeclArch](https://github.com/DevReaper0/declarch)_, a tool for declaratively managing an Arch Linux system
 
 #### ⌨️ Some other cool projects:
 
@@ -24,9 +24,10 @@ I'm _DevReaper0_, a student programmer who has been writing code since early 201
 3. _Python_
 4. _Lua_
 
-#### 📡 My Wakapi stats:
+#### 📡 My Wakapi stats from the past week:
 
 ```text
-💾 Languages:
-{{ wakatimeData.Languages | wakatimeCategoryBar 5 }}
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+
+Total: {{ wakatimeData.HumanReadableTotal }}
 ```
