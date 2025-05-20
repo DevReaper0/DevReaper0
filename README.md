@@ -13,9 +13,8 @@ I'm _DevReaper0_, a student programmer who has been writing code since early 201
 
 -   _[ParaCode](https://github.com/ParaCodeLang/ParaCode)_, a prototypical programming language with a knack for extensibility
 -   _[Spirit](https://gitlab.com/DevReaper0/SpiritEngine)_, a simple, lightweight 2D OpenGL game engine
--   _[Lockdown Mode](https://github.com/DevReaper0/GNOME-LockdownMode)_, a simple GNOME extension that makes it easy to unintrusively disallow specific apps
 -   _[CookieClicker++](https://github.com/DevReaper0/CookieClickerPlusPlus)_, a way to load Cookie Clicker but store saves in the cloud
--   _[NewOS](https://github.com/DevReaper0/NewOS)_, a barebones operating system
+-   _[NewOS](https://github.com/DevReaper0/NewOS)_, a very barebones operating system
 
 #### 🌐 I know a larger variety of languages, but these are my absolute favorites:
 
