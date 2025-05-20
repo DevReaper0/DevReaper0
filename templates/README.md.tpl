@@ -2,7 +2,7 @@
 
 I'm _DevReaper0_, a student programmer who has been writing code since early 2019. I also dabble a bit in creating digital art and music.
 
-I am also currently reading *Lord of Mysteries*.
+#### 📖 Currently reading: *Lord of Mysteries*.
 
 #### 💻 My current main projects:
 
