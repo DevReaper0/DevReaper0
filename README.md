@@ -29,8 +29,10 @@ I'm _DevReaper0_, a student programmer who has been writing code since early 201
 
 ```text
 💾 Languages:
+Markdown    2m 0s   █████████████████████████  100.00%
 
 💼 Projects:
+LibraCore   2m 0s   █████████████████████████  100.00%
 
-Total: 0 hrs 0 mins
+Total: 0 hrs 2 mins
 ```
