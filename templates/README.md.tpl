@@ -16,7 +16,7 @@ I'm _DevReaper0_, a student programmer who has been writing code since early 201
 -   _[CookieClicker++](https://github.com/DevReaper0/CookieClickerPlusPlus)_, a way to load Cookie Clicker but store saves in the cloud
 -   _[NewOS](https://github.com/DevReaper0/NewOS)_, a very barebones operating system
 
-#### 🌐 I know a larger variety of languages, but these are my absolute favorites:
+#### 🌐 I know a larger variety of languages, but these are my current favorites:
 
 1. _Go_
 2. _Rust_
