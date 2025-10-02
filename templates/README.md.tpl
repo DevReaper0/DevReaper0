@@ -2,8 +2,6 @@
 
 I'm _DevReaper0_, a student programmer who has been writing code since early 2019. I also dabble a bit in creating digital art and music.
 
-#### 📖 Currently reading: *Lord of Mysteries*.
-
 #### 💻 My current main projects:
 
 -   _[Libra](https://github.com/LibraMusic)_, a new, open, and extensible music service
