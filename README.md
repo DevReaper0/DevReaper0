@@ -27,8 +27,10 @@ I'm _DevReaper0_, a student programmer who has been writing code since early 201
 
 ```text
 💾 Languages:
+Markdown        16m 5s   █████████████████████████  100.00%
 
 💼 Projects:
+ObsidianVault   16m 5s   █████████████████████████  100.00%
 
-Total: 0 hrs 0 mins
+Total: 0 hrs 16 mins
 ```
