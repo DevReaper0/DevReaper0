@@ -29,16 +29,16 @@ I'm _DevReaper0_, a student programmer who has been writing code since early 201
 
 ```text
 💾 Languages:
-Go              4h 20m 23s   ██████████████░░░░░░░░░░░  53.75%
-Markdown        1h 54m 38s   ██████░░░░░░░░░░░░░░░░░░░  23.66%
-JavaScript      1h 1m 2s     ████░░░░░░░░░░░░░░░░░░░░░  12.60%
-unknown         32m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.62%
-YAML            12m 17s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.54%
+Go              4h 22m 11s   ██████████████░░░░░░░░░░░  52.84%
+Markdown        2h 2m 38s    ███████░░░░░░░░░░░░░░░░░░  24.71%
+JavaScript      1h 1m 2s     ████░░░░░░░░░░░░░░░░░░░░░  12.30%
+unknown         32m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.46%
+YAML            12m 17s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.48%
 
 💼 Projects:
-LibraCore       4h 31m 35s   ███████████████░░░░░░░░░░  56.06%
-ObsidianVault   2h 55m 10s   ██████████░░░░░░░░░░░░░░░  36.16%
-unknown         37m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.78%
+LibraCore       4h 33m 23s   ██████████████░░░░░░░░░░░  55.09%
+ObsidianVault   3h 3m 10s    ██████████░░░░░░░░░░░░░░░  36.91%
+unknown         39m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.99%
 
-Total: 8 hrs 4 mins
+Total: 8 hrs 16 mins
 ```
