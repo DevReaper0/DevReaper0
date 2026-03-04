@@ -29,15 +29,15 @@ I'm _DevReaper0_, a student programmer who has been writing code since early 201
 
 ```text
 💾 Languages:
-Markdown           1h 58m 1s   █████████████████░░░░░░░░  64.79%
-Go                 50m 50s     ███████░░░░░░░░░░░░░░░░░░  27.91%
+Markdown           1h 56m 1s   ████████████████░░░░░░░░░  63.76%
+Go                 52m 38s     ████████░░░░░░░░░░░░░░░░░  28.93%
 conf               7m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.33%
 YAML               3m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.85%
 JSON               2m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.10%
 
 💼 Projects:
-ObsidianVault      1h 58m 1s   █████████████████░░░░░░░░  64.79%
-LibraCore          53m 6s      ████████░░░░░░░░░░░░░░░░░  29.15%
+ObsidianVault      1h 56m 1s   ████████████████░░░░░░░░░  63.76%
+LibraCore          54m 54s     ████████░░░░░░░░░░░░░░░░░  30.17%
 unknown            11m 2s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.06%
 plymouth-preview   0s          ░░░░░░░░░░░░░░░░░░░░░░░░░  0.00%
 
