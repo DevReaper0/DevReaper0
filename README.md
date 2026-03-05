@@ -29,16 +29,16 @@ I'm _DevReaper0_, a student programmer who has been writing code since early 201
 
 ```text
 💾 Languages:
-Markdown            1h 59m 50s   ███████████████████████░░  88.84%
-conf                7m 53s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.84%
-C++                 7m 10s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.31%
-Bash                0s           ░░░░░░░░░░░░░░░░░░░░░░░░░  0.00%
+Markdown            2h 1m 54s   ███████████████████████░░  89.01%
+conf                7m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.76%
+C++                 7m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.23%
+Bash                0s          ░░░░░░░░░░░░░░░░░░░░░░░░░  0.00%
 
 💼 Projects:
-ObsidianVault       1h 59m 50s   ███████████████████████░░  88.84%
-unknown             12m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  8.98%
-MinecraftConsoles   2m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.17%
-plymouth-preview    0s           ░░░░░░░░░░░░░░░░░░░░░░░░░  0.00%
+ObsidianVault       2h 1m 54s   ███████████████████████░░  89.01%
+unknown             12m 7s      ███░░░░░░░░░░░░░░░░░░░░░░  8.85%
+MinecraftConsoles   2m 56s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.14%
+plymouth-preview    0s          ░░░░░░░░░░░░░░░░░░░░░░░░░  0.00%
 
-Total: 2 hrs 15 mins
+Total: 2 hrs 17 mins
 ```
