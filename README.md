@@ -29,15 +29,15 @@ I'm _DevReaper0_, a student programmer who has been writing code since early 201
 
 ```text
 💾 Languages:
-Go              50m 18s     ███████████████░░░░░░░░░░  58.43%
-unknown         26m 57s     ████████░░░░░░░░░░░░░░░░░  31.31%
-Markdown        4m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.65%
-TOML            2m 50s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.29%
-Batchfile       2m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.32%
+Go              33m 48s   ██████████████░░░░░░░░░░░  53.86%
+unknown         20m 7s    █████████░░░░░░░░░░░░░░░░  32.06%
+Markdown        4m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.37%
+TOML            2m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.52%
+Batchfile       2m 0s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.19%
 
 💼 Projects:
-unknown         1h 22m 5s   ████████████████████████░  95.35%
-ObsidianVault   4m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.65%
+unknown         58m 45s   ████████████████████████░  93.63%
+ObsidianVault   4m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.37%
 
-Total: 1 hrs 26 mins
+Total: 1 hrs 3 mins
 ```
