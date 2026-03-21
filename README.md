@@ -29,12 +29,12 @@ I'm _DevReaper0_, a student programmer who has been writing code since early 201
 
 ```text
 💾 Languages:
-Go        2h 1m 7s     ██████████████████████░░░  84.35%
-unknown   19m 38s      ████░░░░░░░░░░░░░░░░░░░░░  13.67%
-TOML      2m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.97%
+Go        2h 11m 7s    ██████████████████████░░░  85.37%
+unknown   19m 38s      ████░░░░░░░░░░░░░░░░░░░░░  12.78%
+TOML      2m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.84%
 
 💼 Projects:
-unknown   2h 23m 35s   █████████████████████████  100.00%
+unknown   2h 33m 35s   █████████████████████████  100.00%
 
-Total: 2 hrs 24 mins
+Total: 2 hrs 34 mins
 ```
