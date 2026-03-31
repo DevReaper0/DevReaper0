@@ -29,17 +29,17 @@ I'm _DevReaper0_, a student programmer who has been writing code since early 201
 
 ```text
 💾 Languages:
-Go                   6h 36m 43s   ████████████████████░░░░░  76.02%
-hyprlang             56m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  10.78%
-unknown              53m 16s      ███░░░░░░░░░░░░░░░░░░░░░░  10.21%
+Go                   6h 39m 26s   ████████████████████░░░░░  76.14%
+hyprlang             56m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  10.73%
+unknown              53m 16s      ███░░░░░░░░░░░░░░░░░░░░░░  10.15%
 Markdown             5m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.97%
-Bash                 4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.77%
+Bash                 4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.76%
 
 💼 Projects:
-unknown              5h 26m 43s   ████████████████░░░░░░░░░  62.60%
-testcompiler         3h 8m 5s     ██████████░░░░░░░░░░░░░░░  36.04%
+unknown              5h 27m 7s    ████████████████░░░░░░░░░  62.36%
+testcompiler         3h 10m 24s   ██████████░░░░░░░░░░░░░░░  36.29%
 ObsidianVault        5m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.97%
 minecraft-pe-0.6.1   2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.38%
 
-Total: 8 hrs 42 mins
+Total: 8 hrs 45 mins
 ```
