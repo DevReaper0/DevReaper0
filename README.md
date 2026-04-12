@@ -29,18 +29,18 @@ I'm _DevReaper0_, a student programmer who has been writing code since early 201
 
 ```text
 💾 Languages:
-Go                     1h 59m 31s   ██████░░░░░░░░░░░░░░░░░░░  22.45%
-hyprlang               1h 58m 0s    ██████░░░░░░░░░░░░░░░░░░░  22.16%
-unknown                45m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  8.51%
-conf                   36m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.90%
-Desktop file           35m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.60%
+Go                     1h 59m 31s   ██████░░░░░░░░░░░░░░░░░░░  23.25%
+hyprlang               1h 58m 0s    ██████░░░░░░░░░░░░░░░░░░░  22.96%
+unknown                45m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  8.81%
+Desktop file           35m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.84%
+conf                   34m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.74%
 
 💼 Projects:
-unknown                7h 51m 45s   ███████████████████████░░  88.60%
-hyprgroups-old         35m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.72%
-nvim                   12m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.42%
-ObsidianVault          10m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.88%
-StarResonanceAutoMod   2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.38%
+unknown                7h 40m 52s   ███████████████████████░░  89.67%
+hyprgroups-old         35m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.97%
+ObsidianVault          10m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.95%
+nvim                   5m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.03%
+StarResonanceAutoMod   2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.39%
 
-Total: 8 hrs 52 mins
+Total: 8 hrs 34 mins
 ```
