@@ -29,16 +29,16 @@ I'm _DevReaper0_, a student programmer who has been writing code since early 201
 
 ```text
 💾 Languages:
-Go               8h 55m 37s    ██████████████████░░░░░░░  69.16%
-hyprlang         1h 36m 21s    ████░░░░░░░░░░░░░░░░░░░░░  12.44%
-INI              22m 27s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.90%
-udevrules        19m 27s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.51%
-Desktop file     18m 57s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.45%
+Go               8h 48m 9s     ██████████████████░░░░░░░  68.86%
+hyprlang         1h 36m 21s    ████░░░░░░░░░░░░░░░░░░░░░  12.56%
+INI              22m 27s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.93%
+udevrules        19m 27s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.54%
+Desktop file     18m 57s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.47%
 
 💼 Projects:
-unknown          12h 39m 33s   █████████████████████████  98.08%
-hyprgroups-old   12m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.58%
+unknown          12h 32m 34s   █████████████████████████  98.12%
+hyprgroups-old   11m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.53%
 ObsidianVault    2m 38s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.34%
 
-Total: 12 hrs 54 mins
+Total: 12 hrs 47 mins
 ```
