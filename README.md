@@ -29,15 +29,15 @@ I'm _DevReaper0_, a student programmer who has been writing code since early 201
 
 ```text
 💾 Languages:
-TSX          3h 4m 7s     ████████████░░░░░░░░░░░░░  47.38%
-unknown      1h 48m 55s   ████████░░░░░░░░░░░░░░░░░  28.03%
-SCSS         1h 7m 55s    █████░░░░░░░░░░░░░░░░░░░░  17.48%
+TSX          3h 3m 59s    ████████████░░░░░░░░░░░░░  47.38%
+unknown      1h 48m 55s   ████████░░░░░░░░░░░░░░░░░  28.05%
+SCSS         1h 7m 55s    █████░░░░░░░░░░░░░░░░░░░░  17.49%
 Go           10m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.59%
-TypeScript   5m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.54%
+TypeScript   5m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.50%
 
 💼 Projects:
-unknown      6h 28m 38s   █████████████████████████  100.00%
+unknown      6h 28m 21s   █████████████████████████  100.00%
 LibraCore    0s           ░░░░░░░░░░░░░░░░░░░░░░░░░  0.00%
 
-Total: 6 hrs 29 mins
+Total: 6 hrs 28 mins
 ```
