@@ -30,14 +30,13 @@ I'm _DevReaper0_, a student programmer who has been writing code since early 201
 ```text
 💾 Languages:
 Odin        3h 22m 46s   █████████████████████░░░░  81.08%
-unknown     8m 54s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.56%
+unknown     10m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.36%
 Lua         8m 8s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.25%
 INI         7m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.90%
-Text        6m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.63%
+Batchfile   5m 6s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.04%
 
 💼 Projects:
-unknown     4h 8m 5s     █████████████████████████  99.20%
-LibraCore   2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.80%
+unknown     4h 10m 5s    █████████████████████████  100.00%
 
 Total: 4 hrs 10 mins
 ```
