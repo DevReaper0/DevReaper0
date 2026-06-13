@@ -29,14 +29,11 @@ I'm _DevReaper0_, a student programmer who has been writing code since early 201
 
 ```text
 💾 Languages:
-Odin        1h 43m 44s   ██████████████████████░░░  87.53%
-INI         6m 14s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.26%
-Text        4m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.85%
-unknown     2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.69%
-Batchfile   1m 59s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.67%
+Text      2m 0s   █████████████░░░░░░░░░░░░  50.00%
+unknown   2m 0s   █████████████░░░░░░░░░░░░  50.00%
 
 💼 Projects:
-unknown     1h 58m 31s   █████████████████████████  100.00%
+unknown   4m 0s   █████████████████████████  100.00%
 
-Total: 1 hrs 59 mins
+Total: 0 hrs 4 mins
 ```
