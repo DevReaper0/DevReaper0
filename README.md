@@ -31,8 +31,8 @@ I'm _DevReaper0_, a student programmer who has been writing code since early 201
 💾 Languages:
 Go          3h 55m 34s   ████████████████████████░  93.78%
 conf        5m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.24%
-Bash        4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.59%
 YAML        4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.59%
+Bash        4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.59%
 unknown     2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.80%
 
 💼 Projects:
